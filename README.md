@@ -1,6 +1,6 @@
 DayZ Epoch - Clayman CarRadio addon (DZE version)
 
-Author: Clayman\n
+Author: Clayman
 Adapted by: jOoPs
 
 Addon to play music from the game or custom music while driving any vehicle.
